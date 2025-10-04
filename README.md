@@ -1,5 +1,5 @@
 ### <div align="center">I'm Nikita, Embedded Software Engineer
-                 ###Electronics Enthusiast 🦾                       
+                 Electronics Enthusiast 🦾                       
   
 
 <div align="center">
