@@ -1,6 +1,23 @@
-### <div align="center">I'm Nikita, Embedded Software Engineer
-                 Electronics Enthusiast 🦾                       
-  
+<div align="center">
+
+### I'm Nikita, Embedded Software Engineer
+
+<div style="
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border-radius: 12px;
+  padding: 16px 24px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  display: inline-block;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-size: 1.1em;
+  color: #2d3748;
+  letter-spacing: 0.5px;
+  transition: transform 0.2s ease;
+">
+  Electronics Enthusiast 💪
+</div>
 
 <div align="center">
 
